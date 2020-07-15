@@ -29,8 +29,7 @@ It is necessary to download the [Infersent model 1](https://github.com/facebookr
 Download and put the files in the infersent_files in each respective folders.
 
 ```
-cd web-app
 python app.py
 ```
 
-Open your browser http://localhost:8000
+Open your browser http://localhost:8888
